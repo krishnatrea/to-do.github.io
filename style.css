@@ -1,0 +1,12 @@
+.btn {
+    float: right;
+}
+
+li {
+    font-size: 36px;
+    list-style: none;
+}
+
+li:hover {
+    background-color: gray;
+}
